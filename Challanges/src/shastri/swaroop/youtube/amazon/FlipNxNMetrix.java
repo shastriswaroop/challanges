@@ -1,4 +1,4 @@
-package shastri.swaroop.amazon;
+package shastri.swaroop.youtube.amazon;
 
 //youtube.com/watch?v=IdZlsG6P17w
 //Amazon Coding Interview Question - Rotate Image
