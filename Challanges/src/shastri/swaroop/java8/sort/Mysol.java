@@ -1,4 +1,4 @@
-package shastri.swaroop.java8;
+package shastri.swaroop.java8.sort;
 
 import java.util.ArrayList;
 import java.util.List;

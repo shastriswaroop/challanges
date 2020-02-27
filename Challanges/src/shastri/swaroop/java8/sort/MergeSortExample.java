@@ -1,4 +1,4 @@
-package shastri.swaroop.java8;
+package shastri.swaroop.java8.sort;
 
 /* Java program for Merge Sort */
 
