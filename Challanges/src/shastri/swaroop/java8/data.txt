@@ -1,0 +1,7 @@
+Bangalore,12,12
+Mumbai,14,2
+Balaghat,6,5
+Delhi,7,6
+Seoni,3, 3
+Hydrabad,5,4
+Singapore
